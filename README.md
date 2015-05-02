@@ -1,5 +1,10 @@
 # Simple Angular 2 app written in TypeScript
 
+## Additions from guide examples of angular.io
+1. Friends (Display)
+1. TODO (Input)
+1. Parent Child Components (Components)
+
 ## Use latest TypeScript compiler
 TypeScript 1.5 beta includes everything you need. Make sure to upgrade, even if you installed TypeScript previously.
 

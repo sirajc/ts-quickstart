@@ -15,6 +15,9 @@
     ],
     "files": [
         "./app.ts",
+        "./friends.ts",
+        "./todo.ts",
+        "./pc-component.ts",
         "./typings/angular2/angular2.d.ts"
     ]
 }
